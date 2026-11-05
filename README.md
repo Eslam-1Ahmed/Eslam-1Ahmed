@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Eslam%20Ahmed&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Codeforces%20Expert%20%7C%20Performance%20%26%20Concurrency&descAlignY=58&descSize=16" width="100%" />
+  <img src="./banner.svg" width="100%" alt="Eslam Ahmed" />
 </p>
 
 <p align="center">
@@ -144,28 +144,11 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eslam-1Ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-1Ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-1Ahmed&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslam-1Ahmed&bg_color=0f172a&color=38bdf8&line=1e3a8a&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 <p align="center">
   <b>💬 Let's talk backend systems, concurrency, or a tough algorithm problem.</b>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+  <img src="./footer.svg" width="100%" />
 </p>
